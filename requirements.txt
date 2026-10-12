@@ -1,0 +1,16 @@
+# Kết nối MongoDB
+pymongo>=4.6.0
+
+# Xử lý và tính toán dữ liệu
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Học máy, tiền xử lý, giảm chiều và phân cụm (RobustScaler, PCA, KMeans, DBSCAN, GMM, metrics)
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Mô hình Embedding ngữ nghĩa
+sentence-transformers>=2.2.0
+
+# Trực quan hóa dữ liệu và biểu đồ
+matplotlib>=3.8.0
